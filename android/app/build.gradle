@@ -140,7 +140,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.lm.samon"
+        applicationId "com.lm.wattabaekku"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
